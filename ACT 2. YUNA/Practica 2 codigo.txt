@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Práctica 2 Canción</title>
+<body>
+<center>
+<img src="E:\Web 4CPM Yuna\ACT 2. YUNA\Imagen/nosotros.jpg">
+<h1><font face="Didot"color"blue">Nosotros</font></h1>
+</center>
+<h2>
+<font face="optima" color="maroon">
+<p align="left">Atiéndeme, quiero decirte algo<br>
+Que quizás no esperes, doloroso tal vez<br>
+Escúchame, aunque me duela el alma<br>
+Yo necesito hablarte y así lo haré</p>
+
+<p align="center">Nosotros que fuimos tan sinceros<br>
+Que desde que nos vimos, amándonos estamos<br>
+Nosotros que del amor hicimos un sol maravilloso<br>
+Romance tan divino</p>
+
+<p align="right">Nosotros, que nos queremos tanto debemos separarnos, no me preguntes más<br>
+No es falta de cariño<br>
+Te quiero con el alma<br>
+Te juro que te adoro y en nombre de este amor<br>
+Y por tu bien te digo adiós</p>
+
+<p align="justify">Nosotros, que nos queremos tanto<br>
+debemos separarnos, no me preguntes más<br>
+No es falta de cariño<br>
+Te quiero con el alma<br>
+Te juro que te adoro y en nombre de este amor<br>
+Y por tu bien te digo adiós</p>
+
+</font>
+<h2>
+<h6 align=right><font face="calibri color="blue">Alumna:Granados Martinez Yuna Melina</font></h6>
+
+<h6 align=right><font face="calibri color="blue">Grupo:4CPM Materia:Desarrollo de Aplicaciones Web</font></h6>
+
+<hr>
+
+</body>
+
+</html>
